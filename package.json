@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Reechajoshi/dott-assignment#readme",
   "dependencies": {
+    "@commitlint/config-conventional": "^14.1.0",
     "@types/jest": "^27.0.2",
     "@types/line-by-line": "^0.1.5",
     "line-by-line": "^0.1.6",

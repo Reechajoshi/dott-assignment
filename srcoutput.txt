@@ -1,0 +1,106 @@
+started execution
+resetting values
+Line Number 1value: 1 
+Process test case: testSuite: 1 
+Line Number 2value: 3 4 
+Setting rows and cols: 34 
+Line Number 3value: 0001 
+Process Data testSuiteLineNumber: 1 rows: 3 
+Process Rows: 0001 
+Line Number 3value: 0011 
+Process Data testSuiteLineNumber: 2 rows: 3 
+Process Rows: 0011 
+Line Number 3value: 0110 
+Process Data testSuiteLineNumber: 3 rows: 3 
+Process Rows: 0110 
+Processing Matrix: [["0","0","0","1"],["0","0","1","1"],["0","1","1","0"]] 
+Last test suite: number1 number1 
+Final Result: [[3,2,1,0],[2,1,0,0],[1,0,0,1]] 
+
+
+resetting values
+started execution
+resetting values
+Line Number 1value: 2 
+Process test case: testSuite: 2 
+Line Number 2value: 3 4 
+Setting rows and cols: 34 
+Line Number 3value: 0001 
+Process Data testSuiteLineNumber: 1 rows: 3 
+Process Rows: 0001 
+Line Number 3value: 0011 
+Process Data testSuiteLineNumber: 2 rows: 3 
+Process Rows: 0011 
+Line Number 3value: 0110 
+Process Data testSuiteLineNumber: 3 rows: 3 
+Process Rows: 0110 
+Processing Matrix: [["0","0","0","1"],["0","0","1","1"],["0","1","1","0"]] 
+Last test suite: number1 number2 
+SHOULD WORK HERE MAN! 0 lineNumber 2 testsuite12 
+Line Number 2value: 2 2 
+Setting rows and cols: 22 
+Line Number 3value: 01 
+Process Data testSuiteLineNumber: 1 rows: 2 
+Process Rows: 01 
+Line Number 3value: 10 
+Process Data testSuiteLineNumber: 2 rows: 2 
+Process Rows: 10 
+Processing Matrix: [["0","0","0","1"],["0","0","1","1"],["0","1","1","0"],["0","1"],["1","0"]] 
+Last test suite: number2 number2 
+Final Result: [[3,2,1,0],[2,1,0,0],[1,0,0,1],[3,2,1,0],[2,1,0,0],[1,0,0,1],[1,0],[0,1]] 
+
+
+resetting values
+started execution
+resetting values
+Line Number 1value: 1 
+Process test case: testSuite: 1 
+Line Number 2value: 2 4 
+Setting rows and cols: 24 
+Line Number 3value: 0001 
+Process Data testSuiteLineNumber: 1 rows: 2 
+Process Rows: 0001 
+Line Number 3value: 0011 
+Process Data testSuiteLineNumber: 2 rows: 2 
+Process Rows: 0011 
+Processing Matrix: [["0","0","0","1"],["0","0","1","1"]] 
+Last test suite: number1 number1 
+Final Result: [[3,2,1,0],[2,1,0,0]] 
+
+
+resetting values
+started execution
+resetting values
+Line Number 1value: 1 
+Process test case: testSuite: 1 
+Line Number 2value: 3 6 
+Setting rows and cols: 36 
+Line Number 3value: 0001 
+Process Data testSuiteLineNumber: 1 rows: 3 
+Process Rows: 0001 
+WE GOT THE ERROR 
+
+
+Line Number 3value: 0011 
+Process Data testSuiteLineNumber: 2 rows: 3 
+Process Rows: 0011 
+WE GOT THE ERROR 
+
+
+Line Number 3value: 0110 
+Process Data testSuiteLineNumber: 3 rows: 3 
+Process Rows: 0110 
+WE GOT THE ERROR 
+
+
+Processing Matrix: [] 
+Last test suite: number1 number1 
+Final Result: [] 
+
+
+resetting values
+started execution
+resetting values
+Line Number 1value: may the force be with you 
+Process test case: testSuite: NaN 
+Invalid error 
